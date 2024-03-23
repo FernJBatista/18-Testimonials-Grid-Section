@@ -163,6 +163,9 @@ main article.daniel-clifford {
   grid-row-start: 1;
   grid-row-end: 2;
   background-color: var(--moderate-violet);
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: top 1.5rem right 2.5em;
 }
 main article.jonathan-walters {
   grid-column-start: 3;
